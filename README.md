@@ -1,7 +1,7 @@
-# Portofolio-website
-My Developer's Portoflio
+# Portfolio-website
+My Developer's Portflio
 
-My Portoflio website as a developer 
+My Portflio website as a developer 
 
 I am a Software Engineer with over two(2) years of Backend experience in Software development.
                     I write clean code with MERN stack,Typescript and Solidity and good system design to build
